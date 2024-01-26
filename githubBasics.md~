@@ -1,0 +1,41 @@
+# Github Basics
+
+## prerequisetes
+
+### brew command in terminal
+this [website][https://brew.sh/]
+Follow the guide on the website
+
+
+### github account
+
+To access a repository youll need to be able to access your github account
+
+
+
+### github repository
+
+to do anything youll need to install the gh command.
+type "brew install gh" into the command line in your terminal
+
+after that either access or create a repo on github.
+once youre on the homepage of your repo click the "code" drop down menu
+then select github cli
+
+
+### Github cli
+
+copy and paste the command given to you in the github cli into your terminal
+
+the first time doing this it will ask you to login into your github account
+
+follow the prompts in terminal and read carefully.
+
+before redirecting you to a webbrowser to login, a one time passcode will be
+printed into your terminal. you'll need to use that passcode to login.
+
+after the first time logging in you can add new repos to your hearts content
+
+
+## Git hub repository
+
